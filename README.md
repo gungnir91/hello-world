@@ -1,2 +1,2 @@
 # hello-world
-test repository
+Here's a basic repository to test commit functions (go easy, I'm learning).
